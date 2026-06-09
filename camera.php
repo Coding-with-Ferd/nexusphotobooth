@@ -25,7 +25,7 @@ $frames = [
     'ict',
     'hospitality',
     'event'
-];
+]; 
 
 foreach($frames as $frame){
 
